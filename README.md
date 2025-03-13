@@ -6,5 +6,5 @@
                          ![Project Screenshot](screenshots/userfeedback.png)   
 
 #ADMIN PANEL
-![Project Screenshot](adminscreenshots/adminlogin.png)  ![Project Screenshot](adminscreenshots/admindashboard.png)
-                                    ![Project Screenshot](adminscreenshots/managevehicle.png)
+![Project adminScreenshot](adminscreenshots/adminlogin.png)  ![Project adminScreenshot](adminscreenshots/admindashboard.png)
+                                    ![Project adminScreenshot](adminscreenshots/managevehicle.png)
